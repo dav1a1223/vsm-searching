@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.1)
+    crack (0.4.3)
+      safe_yaml (~> 1.0.0)
+    method_source (0.8.2)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    safe_yaml (1.0.4)
+    slop (3.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  crack
+  pry
+
+BUNDLED WITH
+   1.14.3
